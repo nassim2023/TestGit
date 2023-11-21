@@ -1,5 +1,1 @@
-" Nous sommes le ....... 2024"
-La liste des films est:
-- Titanic
-- La belle et la bête
-- Taxi
+" Nous sommes le 11 juillet 2024"
